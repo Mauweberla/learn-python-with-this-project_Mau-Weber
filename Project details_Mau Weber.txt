@@ -1,0 +1,5 @@
+Room Dimensions: 25.0x18.0 m
+Room area: 450.0 m2
+Flooring material: Porcelain ($15 per m2)
+Total cost: $6750.0
+Material waste: $15.0% waste, the total area to be covered is 517.5 m2
